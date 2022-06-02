@@ -49,7 +49,7 @@ if(human.get_score() > cpu.get_score()): # check if the human has the most point
     print(f"{human.name} Wins!")
     print(f"{human.name} score: {human.get_score()}\t{cpu.name} score: {cpu.get_score()}") # display the score
  
-elif(cpu.get_score() < human.get_score()): # if human did not win, cpu must have won!
+elif(cpu.get_score() > human.get_score()): # if human did not win, cpu must have won!
     print(f"{cpu.name} Wins!")
     print(f"{human.name} score: {human.get_score()}\t{cpu.name} score: {cpu.get_score()}") # display the score
  
