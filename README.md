@@ -1,5 +1,5 @@
 # rock paper scissors game
-rps (rock-paper-scissors) is a simple python project that enables users to play configurable games of rock paper scissors! The game is set by defualt to use the [rock paper scissors fire water](https://en.wikipedia.org/wiki/Rock_paper_scissors#:~:text=The%20most%20representative,this%20game.%5B104%5D) varition of the game. Note: this program was created for a culminating project; it now serves archival purposes.
+rps (rock-paper-scissors) is a simple python project that enables users to play configurable games of rock paper scissors! The game is set by defualt to use the [rock paper scissors fire water](https://en.wikipedia.org/wiki/Rock_paper_scissors#:~:text=The%20most%20representative,this%20game.%5B104%5D) variation of the game. Note: this program was created for a culminating project; the program now serves archival purposes.
 
 ## main
 The main.py file contains all logic, settings and gameplay mechanics. You can change the game by altering the main.py file. Some changes include:
